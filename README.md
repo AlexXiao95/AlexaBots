@@ -18,7 +18,7 @@ Please refer to [course website](https://hao-fang.github.io/ee596_spr2018/lab1.h
 </div>
 
 
-##Demo
+## Demo
 
 <div  align="center"> 
 <img src="data/demo1.png", width="250">
