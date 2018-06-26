@@ -1,6 +1,6 @@
 # Mos Eisley Cantina
-**An Alexa-based restaurant recommendation system**  
-_Course Project for EE 596 Conversational Artificial Intelligence [[Website](https://hao-fang.github.io/ee596_spr2018/)]- University of Washington_ 
+**An Alexa-based restaurant recommendation system**  [[slides]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_slides.pdf) [[poster]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_poster.pdf)
+_Course Project for EE 596 Conversational Artificial Intelligence - University of Washington_ 
 
 
 ## Team 
