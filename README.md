@@ -22,14 +22,14 @@ Please refer to [course website](https://hao-fang.github.io/ee596_spr2018/lab1.h
 ## Demo
 
 <div  align="center"> 
-<img src="data/demo1.png", width="250">
+<img src="data/demo1.png", width="300">
 </div>
 <div  align="center"> 
-<img src="data/demo2.png", width="250">
+<img src="data/demo2.png", width="300">
 </div>
 <div  align="center"> 
-<img src="data/demo3.png", width="250">
+<img src="data/demo3.png", width="300">
 </div>
 <div  align="center"> 
-<img src="data/demo4.png", width="250">
+<img src="data/demo4.png", width="300">
 </div>
